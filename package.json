@@ -1,8 +1,11 @@
 {
   "name": "gitbook-plugin-nonocast-style",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "main": "index.js",
   "repository": "https://github.com/nonocast/gitbook-plugin-nonocast-style",
   "author": "nonocast@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "gitbook": ">1.x.x"
+  }
 }
